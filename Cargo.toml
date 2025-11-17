@@ -1,0 +1,10 @@
+[package]
+name = "trollcryption"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aes-gcm = "0.10"
+aead = "0.5"
+rand = "0.8"
+blake3 = "1.3"
